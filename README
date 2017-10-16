@@ -1,0 +1,11 @@
+WebCrawler - Jakub Szarawarski
+
+Program is listing links, counting images and their total size on chosen website.
+You can choose a website by:
+1. typing it in the text field and pressing 'GO!' button.
+2. choosing form link list and pressing 'Move' button.
+3. choosing from remembered 'History' pop-up which appears after clicking 'History' button.
+4. going to previous page by clicking 'Back' button.
+
+source code is in src/sample
+jar file is in out/artifacts/WebCrawler
